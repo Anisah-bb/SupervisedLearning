@@ -1,17 +1,21 @@
 ## This project aims to train a model that clasiffies voices of people with parkinson's disorder from those without parkinson's disorder. 
 An analysis of quantified voice patterns patterns in people phonation disorders related to Parkinson's.
 
-Description
+## Description 
+
 This repository contains the code to analyze and make a model thal classifies voices of people with Parkinson's Disorder from those without.
 
-Data
+## Data
+
 The dataset was created by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. The original study published the feature extraction methods for general voice disorders.
 The dataset can be found at https://archive.ics.uci.edu/ml/datasets/Parkinsons
 
-Data description
+## Data description
+
 The different columns of the table are described in the documentation directory https://archive.ics.uci.edu/ml/datasets/Parkinsons
 
-Installation
+## Installation
+
 Single install
 The easiest way to install all the required packages is via conda. How to install conda on your system can be found here.
 
@@ -27,7 +31,8 @@ pip
 NOTE: make sure to use the correct versions, which are listed here.
 
 
-Requirements
+## Requirements
+  
 Software	Version
 Python	3.9.7
 
