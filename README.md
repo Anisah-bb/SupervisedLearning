@@ -66,7 +66,7 @@ imbalanced-learn   0.7.0
 
 License
 
-This project contains a MIT.
+This project contains a MIT License.
 
 Legal
 This study is based on a preexisting HIPAA compliant dataset that contains no personally identifiable information. Due to the deidentified nature of the datasets obtained; this study was not considered human subjects research nor required consent per the Helsinki Declaration and was therefore exempt from VCU Institutional Review Board review.
