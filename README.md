@@ -1,11 +1,12 @@
-## This project aims to train a model that clasiffies voices of people with parkinson's disorder from those without parkinson's disorder.
-A case study about Dyphonic voice patterns in people with Parkinson's Disorder.
+## This project aims to train a model that clasiffies voices of people with parkinson's disorder from those without parkinson's disorder. 
+An analysis of quantified voice patterns patterns in people phonation disorders related to Parkinson's.
 
 Description
 This repository contains the code to analyze and make a model thal classifies voices of people with Parkinson's Disorder from those without.
 
 Data
-The process datasets can be found at https://archive.ics.uci.edu/ml/datasets/Parkinsons
+The dataset was created by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. The original study published the feature extraction methods for general voice disorders.
+The dataset can be found at https://archive.ics.uci.edu/ml/datasets/Parkinsons
 
 Data description
 The different columns of the table are described in the documentation directory https://archive.ics.uci.edu/ml/datasets/Parkinsons
@@ -25,8 +26,6 @@ pip
   pip install <PACKAGE>==<VERSION>
 NOTE: make sure to use the correct versions, which are listed here.
 
-Getting started
-To open the dashboard run the dashboard_mosquitoes.ipynb notebook from top to bottom.
 
 Requirements
 Software	Version
