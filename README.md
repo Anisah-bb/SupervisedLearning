@@ -36,21 +36,36 @@ NOTE: make sure to use the correct versions, which are listed here.
 Software	Version
 Python	3.9.7
 
-Packages Package	Version
+Packages Package	 Version
+  
 matplotlib   3.5.0   
+  
 numpy	1.21.2
+
 pandas	1.3.3
+  
 bokeh	2.3.3
+
 panel	0.12.1
+
 holoviews	1.14.6
+  
 hvplot	0.7.3
+
 scipy	1.7.1
+
 jupyter	1.0.0
+
 statsmodel	0.12.2
+
 scikit-learn  1.0.2  
+
 Seaborn  0.11.2  
+
 imbalanced-learn   0.7.0 
+
 License
+
 This project contains a MIT.
 
 Legal
