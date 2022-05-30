@@ -1,4 +1,4 @@
-## Classification of dysphonic Voice Pattern of Patients in Parkinson's Disease 
+## Classification of dysphonic Voice Patterns of Patients with Parkinson's Disease 
 
 This project aims to train a model that clasiffies voices of people with parkinson's disorder from those without parkinson's disorder. 
 An analysis of quantified voice patterns patterns in people phonation disorders related to Parkinson's.
